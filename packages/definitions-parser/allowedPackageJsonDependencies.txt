@@ -725,6 +725,7 @@
 @types/node
 @types/node-fetch
 @types/pino
+@types/prompts
 @types/puppeteer
 @types/puppeteer-core
 @types/react-native-tab-view
